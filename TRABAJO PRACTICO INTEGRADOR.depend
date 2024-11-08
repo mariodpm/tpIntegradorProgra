@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1730946801 source:c:\users\mario\onedrive\escritorio\bonzo\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"funcionjugar.h"
+
+1730955274 c:\users\mario\onedrive\escritorio\bonzo\funcionjugar.h
+
